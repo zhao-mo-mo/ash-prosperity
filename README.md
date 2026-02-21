@@ -7,3 +7,4 @@
 ## 目录
 
 * [第一章：排练](chapter_1_the_parade.md)
+* [第二章：标准](chapter_2_the_standard.md)
